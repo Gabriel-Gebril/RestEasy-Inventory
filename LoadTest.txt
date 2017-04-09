@@ -1,0 +1,3 @@
+1111111,170,wrenches,Warehouse B,steel wrenches
+3333333,133,screws,Warehouse A,standard screws
+2222222,21,screwdrivers,Warehouse C,Large philips screwdrivers
